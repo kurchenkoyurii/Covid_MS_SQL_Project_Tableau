@@ -1,4 +1,5 @@
-
+--Tableau link for Project 
+--https://public.tableau.com/app/profile/yurii.kurchenko3385/viz/CovidMSSQLProject/Dashboard1
 
 -- For visualization
 --1
